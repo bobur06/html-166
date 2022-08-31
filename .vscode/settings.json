@@ -1,0 +1,8 @@
+{
+  "workbench.reduceMotion": "off",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.smoothScrolling": true,
+  "editor.autoClosingBrackets": "languageDefined",
+  "editor.autoClosingDelete": "always",
+  "files.autoSave": "afterDelay"
+}
