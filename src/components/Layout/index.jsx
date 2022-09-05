@@ -15,7 +15,7 @@ const Layout = () => {
     <div>
       <Navbar />
       <Main>
-        <Carousel className="" ariaLabel="skipping" autoPlay infiniteLoop>
+        <Carousel className="" ariaLabel="skipping" autoPlay infiniteLoop useKeyboardArrows={true} transitionTime={1200} interval={2300}>
           <ImgWrapper>
             <img src={First} alt="img" />
           </ImgWrapper>

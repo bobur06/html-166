@@ -18,7 +18,7 @@ align-items: center;
       height: 50px;
       width: 50px;
       border-radius: 27px;
-      margin-top: 300px;
+      margin-top: 50%;
       ::before{
         margin: 0;
       }
